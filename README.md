@@ -25,4 +25,3 @@ Drop us a line at:
 - 🌐 [bearlyfunctional.io](https://bearlyfunctional.io) (coming soon!)
 - 📠 (coming soon, did I mention we love fax machines?)
 
-# .github
