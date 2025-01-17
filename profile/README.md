@@ -19,9 +19,9 @@ We can't tell you that yet, but we are working on it! 🤫
 We do not want to hear from recruiters, or individuals looking to invest in our company, thank you.
 If you love fax machines, or simply want to chat about software development, we would love to hear from you!
 
-Drop us a line at:
+Drop us a line or find out more at:
 
 - 📧 (not yet available - working on it!)
-- 🌐 [bearlyfunctional.io](https://bearlyfunctional.io) (coming soon!)
+- 🌐 [bearlyfunctional.io](https://bearlyfunctional.io)
 - 📠 (coming soon, did I mention we love fax machines?)
 
