@@ -6,8 +6,9 @@ We are a small software development company based in the UK, with a passion for 
 
 ## Our Mission
 
-We believe that software should be a joy to use, and beautiful to look at, at the same time.
-There is no reason you should feel like you are fighting with your software, or that it is getting in the way of your work.
+We believe that software should be a joy to use and beautiful to look at, at the same time.
+There is no reason you should feel like you are fighting with your software, or that it is getting in the way of what you want to achieve.
+Nobody ever aspires to to having hard to use software, however a lot of tools out there *do* fall into that trap.
 Our goal therefore is to find what makes people miserable, and fix it with a product that is a joy to use.
 
 ## What Do We Do?
